@@ -1,2 +1,2 @@
 # SimpleStreamExamples
-Stream Processing Example in Java
+Java Stream Processing
